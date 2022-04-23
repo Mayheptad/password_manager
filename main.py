@@ -69,7 +69,7 @@ def check_user_data():
         return False
 
 
-# ---------------------------- SEARCH WEBSITE AND GET DETAILS FUNCTIONALITIES ------------------------------- #
+# ---------------------------- SEARCH WEBSITE TO GET IT DETAILS FUNCTIONALITIES ------------------------------- #
 
 def get_website_detail():
     website_value = website_entry.get()
